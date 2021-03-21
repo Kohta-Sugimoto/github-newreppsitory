@@ -1,3 +1,5 @@
+画像格納用
+
 # github-newreppsitory
 
 概要
